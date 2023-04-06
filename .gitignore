@@ -15,7 +15,7 @@
 
 .DS_Store
 
-# CS56 specific: Secrets files
+# CS156 specific: Secrets files
 
 localhost.json
 heroku.json
