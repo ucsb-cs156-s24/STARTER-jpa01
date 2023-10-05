@@ -1,9 +1,11 @@
-package edu.ucsb.cs56.pconrad.menuitem;
+package edu.ucsb.cs156.pconrad.menuitem;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.Test;
+
+import edu.ucsb.cs156.pconrad.menuitem.MenuItem;
 
 public class MenuItemTest {
 
