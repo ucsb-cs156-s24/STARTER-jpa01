@@ -1,6 +1,6 @@
 # STARTER-jpa01
 
-Starter code for https://ucsb-cs156.github.io/f23/lab/jpa01/
+Starter code for https://ucsb-cs156.github.io/w24/lab/jpa01/
 
 
 # Testing with Junit
